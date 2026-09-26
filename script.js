@@ -9,8 +9,9 @@ let adverb_2 = window.prompt("choose another _____")
 
 let adverb_3 = window.prompt("choose a third adverb");
 
-
 let adverb_4 = window.prompt("choose a fouth adverb");
+
+
 document.write("The best mexican resturant is around the block!!!! Its called " + adverb_1 + " and its soooo good."
      + "<br>" + adverb_2 + " at the mailman." 
      + "<br>" + " " + adverb_3 + " through the trees." 
