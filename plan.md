@@ -3,7 +3,7 @@ we are gonna use document.write and window.prompt to create a madlib and the cod
 i put the basic code we are gonna use for this in the  scrip.js file probably not gonna need any html
 
 what i need is some creativty because im the worst at creating in general so franco I need you help me PLEASE.
-* input 1:     
+* input 1:     jdjdjddjdj
 
 * input 2: 
 
