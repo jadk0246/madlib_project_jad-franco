@@ -3,7 +3,7 @@
 
 
 //  my ide saying that document.write is deprecated I'm still gonna use it
-let adverb_1 = window.prompt("choose an noun PLEASE");
+let adverb_1 = window.prompt("choose an noun PLEASEEEEEEEEEEEEEE");
 document.write("The best mexican resturant is around the block!!!! Its called " + adverb_1 + " and its soooo good."); //this is the main line of code we are gonna use 
 
 document.write("<br>"); // this is just to add a line break so the next line of code is on a new line
