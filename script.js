@@ -3,12 +3,12 @@
 
 
 //  my ide saying that document.write is deprecated I'm still gonna use it
-let adverb_1 = window.prompt("choose an adverb PLEASE");
-document.write("The cat ran " + adverb_1 + " down the street."); //this is the main line of code we are gonna use 
+let noun_1 = window.prompt("choose an noun PLEASE");
+document.write("The best mexican resturant is around the block!!!! Its called " + noun_1 + " and its soooo good."); //this is the main line of code we are gonna use 
 
 document.write("<br>"); // this is just to add a line break so the next line of code is on a new line
-let adverb_2 = window.prompt("choose another adverb");
-document.write("The dog barked " + adverb_2 + " at the mailman."); 
+let adverb_2 = window.prompt("choose another _____")
+document.write("  " + adverb_2 + " at the mailman."); 
 
 
 document.write("<br>");

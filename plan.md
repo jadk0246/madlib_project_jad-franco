@@ -3,7 +3,7 @@ we are gonna use document.write and window.prompt to create a madlib and the cod
 Were going to add base code to go off of in order to make it faster. 
 i put the basic code we are gonna use for this in the  scrip.js file probably not gonna need any html.
 
-* input 1: 
+* input 1: Taco Bell
 
 * input 2: 
 
@@ -13,5 +13,5 @@ i put the basic code we are gonna use for this in the  scrip.js file probably no
 
 * input 5: 
 
-Madlib: Its a crazyyy school day
+Madlib: Mexican dinner
 
