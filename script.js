@@ -1,0 +1,19 @@
+// period: 
+
+
+
+//  my ide saying that document.write is deprecated I'm still gonna use it
+let adverb_1 = window.prompt("choose an adverb");
+document.write("The cat ran " + adverb_1 + " down the street."); //this is the main line of code we are gonna use 
+
+document.write("<br>"); // this is just to add a line break so the next line of code is on a new line
+let adverb_2 = window.prompt("choose another adverb");
+document.write("The dog barked " + adverb_2 + " at the mailman."); 
+
+
+document.write("<br>");
+let adverb_3 = window.prompt("choose a third adverb");
+document.write("The bird flew " + adverb_3 + " through the trees.");
+
+
+// all we need to do is add more prompts and create a semi story with them 
